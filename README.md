@@ -1,3 +1,4 @@
-# CS350
+# CS350 - Pirate Treasure Map
 
-Assignments and projects from my Fundamentals of Computing Systems class.
+This program uses multithreaded reverse MD5 hashes to searches through a “treasure
+map” and find a specific string.
